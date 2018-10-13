@@ -1,1 +1,1 @@
-# BYU_AIS_Tech_Talk_Docs
+# BYU AIS Tech Talk Docs
