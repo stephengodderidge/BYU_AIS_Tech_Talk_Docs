@@ -45,10 +45,10 @@ If you get this far, than you’re all ready to go on Thursday. If you run into 
 ### BONUS - Check out the Gatsby Starter Page
 The Gatsby folks have put in a lot of effort to make their starter page as beginniner-friendly as possible. If you run into any issues, or just want to see how you can start your own project, go to their page:
 
-(https://www.gatsbyjs.org/tutorial/part-zero/#install-nodejs)
+https://www.gatsbyjs.org/tutorial/part-zero/#install-nodejs
 
 ### DOUBLE BONUS - Check out the Kyle Gill's Medium Articles
 Kyle Gill has had a number of awesome articles on Medium; they're definitely worth a read!
 
-(https://medium.com/@kyle.robert.gill)
+https://medium.com/@kyle.robert.gill
 
